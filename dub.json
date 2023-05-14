@@ -14,10 +14,10 @@
 			"targetType": "library"
 		},
 		{
-			"name": "test",
+			"name": "libtest",
 			"targetType": "library",
 			"versions": [
-				"test_app_ecm"
+				"test_app_myname"
 			]
 		}
 	],
@@ -39,7 +39,6 @@
 		"../../LIBS/uim-models",
 		"../../LIBS/uim-entitybase",
 
-		"../../MODELS/model-portals",
 		"../../MODELS/model-systems",
 
 		"../../LANGS/lang-javascript",
@@ -61,7 +60,6 @@
 		"../../LIBS/uim-models",
 		"../../LIBS/uim-entitybase",
 		
-		"../../MODELS/model-portals",
 		"../../MODELS/model-systems",
 
 		"../../LANGS/lang-javascript",
