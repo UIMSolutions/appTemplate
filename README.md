@@ -1,1 +1,1 @@
-# Library 📚 app-myname
+# App 📚 app-myname
