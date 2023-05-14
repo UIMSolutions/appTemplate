@@ -1,5 +1,7 @@
 module apps.myname;
 
+mixin(ImportPhobos!());
+
 public { // required uim libraries
   import uim.core;
   import uim.oop;
