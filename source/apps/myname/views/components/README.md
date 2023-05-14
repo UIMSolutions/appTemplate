@@ -1,2 +1,2 @@
-# Package 📦 apps.myname.components
+# Package 📦 apps.myname.views.components
 
