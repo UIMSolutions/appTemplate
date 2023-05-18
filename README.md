@@ -1,1 +1,1 @@
-# appTemplate
+# APP app-myname
