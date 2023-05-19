@@ -11,7 +11,7 @@ class DMYNAMEIndexView : DView {
     super.toH5(options);
 
     return [
-      H5Div("APP myname -> Error")
+      H5Div("APP Myname -> Error")
     ].toH5;
   }
 }
